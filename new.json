@@ -1,1 +1,6 @@
-Ivanushkin Danylo Valeriiovych, 24 y.o, -, 600 :)
+{
+   "firstname": "Valerii",
+   "lastname": "Zhmykh",
+   "numberofpets": "10",
+   "desiredSalary": "300$"
+}
